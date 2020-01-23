@@ -39,9 +39,9 @@ Contains the specifications of gems such as:
 # Bundler installation
 
 > For install bundler add the follow command: 
-**$ bundle install
+* **$ bundle install
 
 Already installed we will create the gem as follows:
-**$ bundle gem [name]
+* **$ bundle gem [name]
 
 ### The gem will be generated automatically and will be ready to use.
