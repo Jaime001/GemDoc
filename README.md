@@ -6,23 +6,23 @@ In Ruby, a ***gem*** is a library package as in JS which are installed in the sy
 
 # What is inside a gem?
 
-*/lib
-*/ bin
-*/ spec
-*.gemspec
-*Documentation
+* /lib
+* / bin
+* / spec
+* .gemspec
+* Documentation
 
 
-### / lib 
+### /lib: 
 > Stores the main ruby ​​file where the code for the gem's functionality is entered.
 
-### /bin 
+### /bin: 
 > Contains the console and the program setup.
 
-### Documentation 
+### Documentation: 
 > Contains information about the gem, how to install it, what it is for and how to use it.
 
-### .gemspec 
+### .gemspec: 
 Contains the specifications of gems such as:
 *authors =
 *records
