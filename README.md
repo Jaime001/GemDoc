@@ -41,7 +41,7 @@ Contains the specifications of gems such as:
 > For install bundler add the follow command: 
 * $ bundle install
 
-Once installed, in the directory in which we want to create the gem and enter the following command:
+Once installed, in the directory in which we want to create the gem, enter the following command:
 * $ bundle gem [name]
 
 ### The gem will be generated automatically and will be ready to use.
