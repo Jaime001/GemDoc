@@ -24,15 +24,15 @@ In Ruby, a ***gem*** is a library package as in JS which are installed in the sy
 
 ### .gemspec: 
 Contains the specifications of gems such as:
-*authors =
-*records
-*Name
-*summary
-*version
+* authors =
+* records
+* name
+* summary
+* version
 > The rest of the specifications are recommended or optional.
 
-**Now that we know a little more about what a gem contains, let's create one!**
 
+**Now that we know a little more about what a gem contains, let's create one!**
 # What is Bundler?
 > Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed. For more documentation: https://bundler.io
 
